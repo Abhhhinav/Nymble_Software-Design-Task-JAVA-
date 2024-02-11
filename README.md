@@ -1,6 +1,6 @@
-# **Travel Agency Management System** 🚗: 🚌:
+# **Travel Agency Management System** 🚗 🚌 ✈️
 
-Travel agencies may easily and conveniently store trip, employee, and car details with the help of the **Travel Agency Management System**.
+Travel agencies may easily and conveniently store the trip, employee, and vehicle details with the help of the **Travel Agency Management System**.
 
 
 ## **Aim of the project**
