@@ -1,4 +1,4 @@
-# **Travel Agency Management System** :Gold_car: :oncoming_bus:
+# **Travel Agency Management System** 🚗: 🚌:
 
 Travel agencies may easily and conveniently store trip, employee, and car details with the help of the **Travel Agency Management System**.
 
@@ -11,11 +11,12 @@ Travel agencies may easily and conveniently store trip, employee, and car detail
 
 
 
-1. High - Level Diagram
+## 1. High - Level Diagram
 
 ![High_diag](https://github.com/Abhhhinav/Nymble_Software-Design-Task-JAVA-/assets/107941084/3cf93f4a-c371-4d9d-aff1-fad4481a86ae)
 
-2. Low - Level Diagram
+
+## 2. Low - Level Diagram
 
 ## **Class - Diagram**
 ![Class_Diag](https://github.com/Abhhhinav/Nymble_Software-Design-Task-JAVA-/assets/107941084/9eea4d63-1f52-4ddc-a182-28bc28383927)
