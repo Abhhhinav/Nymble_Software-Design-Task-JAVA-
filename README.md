@@ -1,5 +1,14 @@
-# Nymble_Software-Design-Task-JAVA-
-Designed and  implemented a software system that allows travel agencies to maintain their travel packages' itinerary and passengers.
+# **Travel Agency Management System** :Gold_car: :oncoming_bus:
+
+Travel agencies may easily and conveniently store trip, employee, and car details with the help of the **Travel Agency Management System**.
+
+
+## **Aim of the project**
+
+- Since almost everyone takes a holiday, a travel agency management system is essential to organizing the ideal trip. 
+
+- The primary goal is to assist travel agencies in managing their client and itineraries.
+
 
 
 1. High - Level Diagram
